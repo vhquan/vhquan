@@ -1,17 +1,18 @@
-### Hi there 👋
+<pre>
+#include <stdio.h>
 
-<!--
-**vhquan/vhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+int main(int argc, char **argv){
+  printf("vhquan, Hello World!\n");
+  return 0;
+}
+</pre>
+I am currently working as a Embedded Engineer for @VHT.
+### Checkout my social medias:
+- 💬 [Personal blog](https://vhquan.github.io)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vhquan/)
+- 🐦 [Facebook](https://www.facebook.com/quan.vu41)
 
-Here are some ideas to get you started:
+![vhquan's github stats](https://github-readme-stats.vercel.app/api?username=vhquan&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on embedded programming.
+### and sending love! 💞
+![](https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif)
