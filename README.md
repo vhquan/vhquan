@@ -10,7 +10,7 @@ I am currently working as a Embedded Engineer for @VHT.
 ### Checkout my social medias:
 - 💬 [Personal blog](https://vhquan.github.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vhquan/)
-- 🐦 [Facebook](https://www.facebook.com/vhq0225)
+- 🐦 [Facebook](https://www.facebook.com/quanvu.5222/)
 
 ![vhquan's github stats](https://github-readme-stats.vercel.app/api?username=vhquan&show_icons=true)
 
