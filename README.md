@@ -6,7 +6,7 @@ int main(int argc, char **argv){
   return 0;
 }
 </pre>
-I am currently working as a Embedded Engineer for @VHT.
+I am currently working as a Embedded System Engineer for @VHT.
 ### Checkout my social medias:
 - 💬 [Personal blog](https://vhquan.github.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vhquan/)
