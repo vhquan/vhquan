@@ -14,4 +14,4 @@ I am currently working as a Embedded System Engineer for @VHT.
 
 ![vhquan's github stats](https://github-readme-stats.vercel.app/api?username=vhquan&show_icons=true&theme=dark)
 
-![](https://media.giphy.com/media/1msDUtCpBk1BihoOGD/giphy.gif = 20x20)
+![](https://media.giphy.com/media/1msDUtCpBk1BihoOGD/giphy.gif =20x20)
