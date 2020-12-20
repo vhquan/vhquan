@@ -12,4 +12,6 @@ I am currently working as a Embedded System Engineer for @VHT.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vhquan/)
 - 🐦 [Facebook](https://www.facebook.com/hongquan.029/)
 
-![vhquan's github stats](https://github-readme-stats.vercel.app/api?username=vhquan&show_icons=true)![](https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif)
+![vhquan's github stats](https://github-readme-stats.vercel.app/api?username=vhquan&show_icons=true)
+
+![](https://media.giphy.com/media/1msDUtCpBk1BihoOGD/giphy.gif)
