@@ -1,11 +1,11 @@
-<pre>
-#include <<stdio.h>>
+```c
+#include <stdio.h>
 
 int main(int argc, char **argv){
   printf("vhquan, Hello World!\n");
   return 0;
 }
-</pre>
+```
 I am currently working as a Embedded System Engineer for @VHT.
 ### Checkout my social medias:
 - 💬 [Personal blog](https://vhquan.github.io)
