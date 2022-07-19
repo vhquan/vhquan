@@ -1,14 +1,15 @@
-```c
-#include <stdio.h>
+```c++
+#include <iostream>
 
-int main(int argc, char **argv){
-  printf("vhquan, Hello World!\n");
-  return 0;
+int main(int argc, char **argv)
+{
+    std::cout << "Hello, world" << std::endl;
+    return 0;
 }
 ```
-I am currently working as a embedded linux engineer.
+I'm interested in DevOps, Web and Linux Embedded System.
 ### Checkout my social medias:
-- 💬 [Personal blog](https://vhquan.github.io)
+- 💬 [Personal blog](http://alychee.xyz)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vhquan/)
 - 🐦 [Facebook](https://www.facebook.com/hqtrx/)
 
