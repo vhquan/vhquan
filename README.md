@@ -9,7 +9,7 @@ int main(int argc, char **argv)
 ```
 I'm interested in DevOps, Web and Linux Embedded System.
 #### Checkout my social medias:
-![](./assets/blog.png) [Personal blog](http://alychee.xyz)
+[![Personal blog](./assets/blog.png)](http://alychee.xyz)
 
 ![](./assets/linkedin.png) [LinkedIn](https://www.linkedin.com/in/vhquan/)
 
