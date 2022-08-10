@@ -7,7 +7,7 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
-I'm interested in DevOps, Web and Linux Embedded System.
+I'm interested in DevOps, Web and Linux System.
 #### Contact:
 - [![Personal blog](https://raw.githubusercontent.com/vhquan/vhquan/master/assets/blog.png)](http://alychee.xyz) [Blog](http://alychee.xyz)
 - [![LinkedIn](https://raw.githubusercontent.com/vhquan/vhquan/master/assets/linkedin.png)](https://www.linkedin.com/in/vhquan/) [Linkedin](https://www.linkedin.com/in/vhquan/)
