@@ -1,13 +1,7 @@
 ```c++
-#include <iostream>
-
-int main(int argc, char **argv)
-{
-    std::cout << "Hello, world" << std::endl;
-    return 0;
-}
+    std::cout << "Hello, world\n";
 ```
-I'm interested in DevOps, Web and Linux System.
+I'm interested in Computer System.
 #### Contact:
 - [![Personal blog](https://raw.githubusercontent.com/vhquan/vhquan/master/assets/blog.png)](http://alychee.xyz) [Blog](http://alychee.xyz)
 - [![LinkedIn](https://raw.githubusercontent.com/vhquan/vhquan/master/assets/linkedin.png)](https://www.linkedin.com/in/vhquan/) [Linkedin](https://www.linkedin.com/in/vhquan/)
